@@ -1,1 +1,1 @@
-# cvip-pa2
+# Panorama (Image Stitching)
